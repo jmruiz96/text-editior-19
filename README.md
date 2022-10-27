@@ -19,7 +19,7 @@
 - As a delveloper npm run start or users just go to the depolyed live link.
 ![Webpage Screenshot](./img/Screen%20Shot%202022-10-27%20at%205.08.31%20PM%20(2).png)
 ![Webpage Screenshot](./img/Screen%20Shot%202022-10-27%20at%205.08.54%20PM%20(2).png)
-[Live Link]()
+[Live Link](https://secret-crag-70193.herokuapp.com/)
 
 ## License
 > **Note**: This application is covered under the MIT license. https://opensource.org/licenses/MIT
